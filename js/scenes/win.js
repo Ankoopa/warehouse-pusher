@@ -37,8 +37,4 @@ class WinScreen extends Phaser.Scene{
             this.scene.start("mainMenu");
         });
     }
-
-    update(){
-
-    }
 }

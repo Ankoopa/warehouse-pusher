@@ -38,8 +38,4 @@ class MainMenu extends Phaser.Scene{
             this.scene.start("level1");
         });
     }
-
-    update(){
-
-    }
 }

@@ -95,7 +95,3 @@ function playerController(plr, cursor){
 
     plr.body.velocity.normalize().scale(speed);
 }
-
-function checkCrates(){
-
-}
